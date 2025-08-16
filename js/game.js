@@ -1,4 +1,4 @@
-// Moto Racer — Offline (Vanilla JS + Canvas)
+// fdxdfgdxfgxdgxdghxdfgh// Moto Racer — Offline (Vanilla JS + Canvas)
 // Fully fixed and working student-friendly endless dodger.
 
 (function() {
